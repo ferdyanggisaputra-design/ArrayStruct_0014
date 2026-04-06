@@ -8,3 +8,10 @@ struct AlamatDetail
     string kota;
     
 };
+
+struct mahasiswa
+{
+    string nama;
+    AlamatDetail alamat;
+    int umur;
+};
